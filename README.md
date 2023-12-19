@@ -8,8 +8,9 @@ BTQ's customized javascript implementation of FALCON
 
 This project is under [The MIT license](https://opensource.org/licenses/MIT).
 
-Copyright (c) 2017-2023 Grammatopoulos Athanasios-Vasileios
+This project is based on:
 
-This project make use of the Falcon implementation that is also under an MIT license.
+1. Original Falcon implementation
+2. Grammatopoulos Athanasios-Vasileios's Emscripten compiler setup for Falcon implementation
 
 ---
