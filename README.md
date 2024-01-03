@@ -28,7 +28,7 @@ This will install all necessary dependencies and run a series of unit tests to v
 
 ### Examples
 
-For a hands-on introduction to using btq-falcon-js, the `test/index.test.ts`` file is your go-to resource. This file not only serves as a test suite but also acts as a practical guide, demonstrating the usage of the compiled output in various scenarios.
+For a hands-on introduction to using btq-falcon-js, the `test/index.test.ts` file is your go-to resource. This file not only serves as a test suite but also acts as a practical guide, demonstrating the usage of the compiled output in various scenarios.
 
 ## NPM installation
 
