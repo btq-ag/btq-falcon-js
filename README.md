@@ -55,7 +55,7 @@ make clean
 make
 ```
 
-\_\_
+---
 
 ### Appreciation and Legal Notes
 
@@ -63,7 +63,5 @@ btq-falcon-js is distributed under the permissive [MIT license](https://opensour
 
 This project owes its existence and evolution to:
 
-1. Original [Falcon](https://falcon-sign.info/) implementation
+1. The original [Falcon](https://falcon-sign.info/) implementation
 2. [Emscripten compiler setup](https://github.com/GramThanos/falcon.js) by Grammatopoulos Athanasios-Vasileios
-
----
