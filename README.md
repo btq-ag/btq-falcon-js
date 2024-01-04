@@ -13,7 +13,7 @@ In our version of FALCON, we've gone a step further. While adhering to the core 
 This repository is a comprehensive package for compiling the C implementation of FALCON into JavaScript and WebAssembly. Drawing inspiration and building upon the remarkable work of Grammatopoulos Athanasios-Vasileios ([see his implementation](https://github.com/GramThanos/falcon.js)), our version contains these unique features:
 
 1. Integration of BTQ's specialized version of the FALCON algorithm.
-2. Inclusion of an additional method in the JavaScript interface, enabling the conversion of a secret key to a public key
+2. Inclusion of an additional method in the JavaScript interface, enabling the conversion of a secret key to a public key.
 
 ### Local Setup and Testing
 
@@ -57,7 +57,7 @@ make
 
 \_\_
 
-### Appreciation and Legal Note
+### Appreciation and Legal Notes
 
 btq-falcon-js is distributed under the permissive [MIT license](https://opensource.org/licenses/MIT).
 
